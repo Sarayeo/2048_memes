@@ -63,11 +63,13 @@ hr {
 .x64{
   background-color: #f65d3b;
   color: white;
+  background-image: url("images_memes/lyndaa.png");
 }
 
 .x128{
   background-color: #edce71;
   color: white;
+  background-image: url("images_memes/PL.png");
 }
 
 .x256{
